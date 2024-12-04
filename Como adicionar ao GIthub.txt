@@ -1,0 +1,19 @@
+Git hub
+
+- Iniciar o git na pasta 
+(  git init)
+
+- Adicionar todos os arquivos:
+(  git add .  )
+
+- Vincular com link https
+(  git remote add origin +link do novo repositório criado (ex: https://github.com/MarquesKunz/testando.git)  )
+
+- Enviar para o repositório: 
+(  git commit -m "adicionar um texto de comentário"  )
+
+- Ajustando para subir ao Git Hub: 
+( git branch -M main  )
+
+- Empurrar os arquivos (fazer um push): 
+(  git push -u origin main) - OBS: Se for  a primeira vez precisa colocar a url
